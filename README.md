@@ -30,7 +30,10 @@ GIF created with LiceCap.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One challenge I encountered while creating this app was setting up VS Code to connect 
+with Git and Github. Another challenge was implementing reduce and filter functions 
+after reading the examples and instructions. I was able to get some assistance from 
+friends and outside resources to get that part of challenge 3 done.
 
 ## License
 
